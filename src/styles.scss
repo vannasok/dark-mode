@@ -183,10 +183,10 @@ img {
 .dark-mode__toggle {
   background: papayawhip;
   border-radius: 50px;
-  border: 1px solid black;
+  border: 1px solid #ff7b25;
   height: 20px;
   position: relative;
-  width: 40px;
+  width: 50px;
 }
 
 .toggle {
@@ -229,8 +229,8 @@ img {
 .coin__title {
   display: block;
   margin-left: 8px;
-    min-width: 160px;
-text-align: left;
+  min-width: 160px;
+  text-align: left;
 }
 
 .coin__symbol {
@@ -247,7 +247,7 @@ text-align: left;
   background-color: #313843;
 
   .navbar {
-    background-color: #1F2022;
+    background-color: #1f2022;
     border: none;
   }
 }
